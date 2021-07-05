@@ -1,6 +1,6 @@
-print("write your name/n")
+print("write your name")
 name=input()
-print("write your surname/n")
+print("write your surname")
 surname=input()
 print("write your age")
 age=input()
